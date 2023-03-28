@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on Tiny Software LTDA as a Senior Fullstack Web Developer. I mainly work with PHP and React/Typescript but I also work with AWS related technologies such as SQS, Lambda etc...
+- 🔭 I’m currently working on Tiny Software LTDA as a Senior Fullstack Web Developer. I mainly work with PHP and React/Typescript but I also work with NodeJs, Laravel, AWS related technologies such as SQS, Lambda etc...
 - 🌱 I’m currently learning Python just for fun
 
 ## Social
