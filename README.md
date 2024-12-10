@@ -1,8 +1,3 @@
-### Hi there 👋 
-
-- 🔭 I’m currently working on Tiny Software LTDA as a Senior Fullstack Web Developer. I mainly work with PHP and React/Typescript but I also work with NodeJs, Laravel, AWS related technologies such as SQS, Lambda etc...
-- 🌱 I’m currently learning Python just for fun
-
 ## Social
 <p align="left"> 
 <a href="https://www.github.com/mateusdeitos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
